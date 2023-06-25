@@ -9,5 +9,5 @@ bash run.sh
 ```
 
 ## Pretrained Models
-You can download pretrained models from [here]().
+You can download pretrained models from [here](https://drive.google.com/drive/folders/18aBrC0kzZi8iIYnSgzcs7kLfvg3d0ECA?usp=sharing).
 
